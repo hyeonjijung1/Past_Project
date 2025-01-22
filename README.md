@@ -3,6 +3,14 @@
 
 An Arduino-based solution to streamline and enhance vermicomposting! This project combines hardware and software to create a user-friendly system that manages composting cycles effectively and efficiently. 🌍🌟
 
+/VermicompostingTimer
+   /code
+   /hardware
+   /docs
+/Project2
+   /scripts
+   /assets
+README.md
 ---
 
 ## ✨ Features
