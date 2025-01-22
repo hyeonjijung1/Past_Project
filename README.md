@@ -40,6 +40,12 @@ An interactive hardware-based game designed using Verilog, where all componentsâ
 
 A compact Arduino-based system for efficient vermicomposting with guided worm movement, a timer, and user-friendly features.
 
+<p align="center">
+  <img src="https://github.com/hyeonjijung1/Past_Project/blob/main/onepager1.png" alt="One Pager 1" width="45%">
+  <img src="https://github.com/hyeonjijung1/Past_Project/blob/main/onepager2.png" alt="One Pager 2" width="45%">
+</p>
+Figure 2. One-pager of the final project
+
 ---
 
 ## ðŸ“‚ Repository Contents
