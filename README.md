@@ -1,7 +1,14 @@
 # 🌱 Vermicomposting Timer with LED and Audio Alerts 🚦🔊
+## 📂 Repository Contents
 
-An Arduino-based solution to streamline and enhance vermicomposting! This project combines hardware and software to create a user-friendly system that manages composting cycles effectively and efficiently. 🌍🌟
+- **📄 One-Pager**  
+  [Download One-Pager PDF](One-pager.pdf)
 
+
+- **📜 Code**  
+  Arduino sketches for controlling the LED, LCD, and buzzer.
+
+An Arduino-based solution to enhance vermicomposting! This project combines hardware and software to create a user-friendly system that manages composting cycles effectively.
 ---
 
 ## ✨ Features
