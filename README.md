@@ -1,8 +1,8 @@
 # 🌱 Vermicomposting Timer with LED and Audio Alerts 🚦🔊
 ## 📂 Repository Contents
 
-- **📄 One-Pager**  
-  [Link to One-page summary of the Project](One-pager.pdf)
+- **📄 [One-Pager](One-pager.pdf)**  
+  Summary of the project 
 
 - **📜 Code**  
   Arduino sketches for controlling the LED, LCD, and buzzer.
