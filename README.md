@@ -2,8 +2,8 @@
 
 An interactive hardware-based game designed using Verilog, featuring audio, a VGA display, and user-friendly controls.
 
-![Project Image](https://github.com/hyeonjijung1/Past_Project/blob/main/IMG_9424%202.jpg)
-Figure. Picture of the final project in use
+<img src="https://github.com/hyeonjijung1/Past_Project/blob/main/IMG_9424%202.jpg" alt="Project Image" width="500">
+  *Figure: Picture of the final project in use.*
 
 ---
 
