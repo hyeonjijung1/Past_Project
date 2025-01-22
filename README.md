@@ -10,10 +10,9 @@ The VermiDrawer simplifies composting with LED-guided worm movement, a timer, an
 - **📜 [Software Code](https://github.com/hyeonjijung1/Past_Project/blob/main/Vermicomposting%20Project)**  
   Arduino code for managing the vermicomposting timer and alerts.
   
- - **🎥 Demo Video**  
+ - **🎥[Demo Video](https://drive.google.com/drive/folders/1_5Qi9QS3mzBB9xf154O1IKvN4aYNpkZQ)**  
   Watch the final project in action:  
-  [Demo Video](https://drive.google.com/drive/folders/1_5Qi9QS3mzBB9xf154O1IKvN4aYNpkZQ)
-
+  
 ---
 
 ## ✨ Features
