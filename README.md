@@ -11,7 +11,7 @@ The VermiDrawer simplifies composting with LED-guided worm movement, a timer, an
   Arduino code for managing the vermicomposting timer and alerts.
   
  - **🎥[Demo Video](https://drive.google.com/drive/folders/1_5Qi9QS3mzBB9xf154O1IKvN4aYNpkZQ)**  
-  Watch the final project in action:  
+  Watch the final project in action
   
 ---
 
