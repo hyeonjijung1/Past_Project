@@ -11,7 +11,7 @@ An interactive hardware-based game designed using Verilog, featuring audio, a VG
 
 - **🎥 [Demo Video](https://drive.google.com/file/d/1-k1kQWv2bcY4y-GO6ZJZvzP8-Z2Uc33Q/view?resourcekey)**: Watch the project in action.
 - **🖌️ [Google Slides Overview](https://docs.google.com/presentation/d/1mVGKNP_6rRCzFrcCEjO4WKDWorDyrl0JHLBCvOFSaMc/edit?usp=sharing)**: Includes block diagrams and a comprehensive overview of project design and implementation.
-- **📜 [Verilog Code](https://github.com/hyeonjijung1/Past_Project/blob/main/Piano%20Project%20Final%20Code)**: Source code for the Piano Tiles game.
+- **📜 [Verilog Code](https://github.com/hyeonjijung1/Past_Project/blob/main/Piano%20Project%20Final%20Code)**: Complete source code for the Piano tiles.
 
 
 ---
