@@ -10,6 +10,7 @@ A compact Arduino-based system for efficient vermicomposting with guided worm mo
 - **🎥 [Demo Video](https://drive.google.com/drive/folders/1_5Qi9QS3mzBB9xf154O1IKvN4aYNpkZQ)**: Watch the final project in action.
 - **📄 [One-Pager](One-pager.pdf)**: Overview of the project.
 - **📜 [Software Code](https://github.com/hyeonjijung1/Past_Project/blob/main/Vermicomposting%20Project)**: Arduino code for timer and alerts.
+- - **🛠️ [Tinkercad Design](https://github.com/hyeonjijung1/Past_Project/blob/main/IMG_0477-removebg-preview.png)**: Visual representation of the Arduino setup.
 
 ---
 
