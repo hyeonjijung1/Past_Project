@@ -1,13 +1,14 @@
 # 🌱 Vermicomposting Timer with LED and Audio Alerts 🚦🔊
+
+The VermiDrawer simplifies composting with LED-guided worm movement, a timer, and easy soil and tea extraction—built for efficiency and usability.
+
 ## 📂 Repository Contents
 
 - **📄 [One-Pager](One-pager.pdf)**  
-  Summary of the project 
 
 - **📜 Code**  
   Arduino sketches for controlling the LED, LCD, and buzzer.
 
-An Arduino-based solution to enhance vermicomposting! This project combines hardware and software to create a user-friendly system that manages composting cycles effectively.
 ---
 
 ## ✨ Features
