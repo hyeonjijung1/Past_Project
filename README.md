@@ -2,7 +2,7 @@
 ## 📂 Repository Contents
 
 - **📄 One-Pager**  
-  [Download One-Pager PDF](One-pager.pdf)
+  [github link to One-pager summary of the Project](One-pager.pdf)
 
 
 - **📜 Code**  
