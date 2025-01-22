@@ -2,8 +2,7 @@
 ## 📂 Repository Contents
 
 - **📄 One-Pager**  
-  [github link to One-pager summary of the Project](One-pager.pdf)
-
+  [Link to One-page summary of the Project](One-pager.pdf)
 
 - **📜 Code**  
   Arduino sketches for controlling the LED, LCD, and buzzer.
